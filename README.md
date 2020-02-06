@@ -1,4 +1,4 @@
-# opencv-zero-to-hero
+# Open CV Zero to Hero
  Learning OpenCV for python
 
 # DNS configuration for the website
