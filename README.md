@@ -1,7 +1,7 @@
 # OpenCV Zero to Hero
  Learning OpenCV for python
 
-# DNS configuration for the website
+# Lessons
 
 | Lesson | Title | Description/Log | Completed |
 |------|--------|--------|-------|
