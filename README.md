@@ -1,7 +1,8 @@
 # OpenCV Zero to Hero
- Learning OpenCV for python
+Learning OpenCV for python
 
-# Lessons
+# Breakdown
+This is a log of progress. Each lesson has a notebook to go along with it. It contains my notes and some examples of code associated with the topic.
 
 | Lesson | Title | Description/Log | Completed |
 |------|--------|--------|-------|
